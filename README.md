@@ -2,7 +2,7 @@
 Results (Excel file) and methodology (below) of queries to Web of Science used in the manuscript submitted to Ecological Informatics.
 
 
-# Methodology
+## Methodology
 Counts by year of the number of academic articles under the 'passive citizen science' topic (Figure 2a in the manuscript) have been computed following the methodology below:
 
 1. We have logged in the Web of Science through the Consejo Superior de Investigaciones Científicas (CSIC) user. This is the URL: https://www.webofscience.com/wos/alldb/basic-search
