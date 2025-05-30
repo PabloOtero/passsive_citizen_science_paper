@@ -1,5 +1,6 @@
-# passsive_citizen_science_paper
-Results of queries used in the manuscript submitted to Ecological Informatics
+# Dataset and methodology used in the manuscript "Challenges of Passive Citizen Science in Ecology within a Shifting Social Media Landscape"
+Results of queries used in the manuscript submitted to Ecological Informatics.
+The Excel file has the 
 
 # Methodology
 Counts by year of the number of academic articles under the 'passive citizen science' topic (Figure 2a in the manuscript) have been computed following the methodology below:
